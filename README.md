@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+An AI SaaS Platform for chat, code, image, video and music generation using prompt.
 
 ## Getting Started
 
